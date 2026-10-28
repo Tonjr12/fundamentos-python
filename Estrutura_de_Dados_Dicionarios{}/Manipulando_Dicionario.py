@@ -6,3 +6,4 @@ aluno = {
     "aluno_ativo":True
 }
 print(f'Dicionário: {aluno}')
+print(f'Aluno: {aluno["Nome"]}')
